@@ -3,6 +3,7 @@
 
 ## Commands
 * go help - displays all available go commands
+* go mod tidy - add missing and remove unused modules
 
 <br>
 
