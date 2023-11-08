@@ -1,4 +1,4 @@
-# Go(lang) Documentation Tracker
+# Go(lang) Quick Docs
 
 
 ## Commands
